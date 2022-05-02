@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Fileshare</string>
+    <string name="intro_statement">Share files everywhere at anytime and enjoy fast transfer speeds</string>
+</resources>
